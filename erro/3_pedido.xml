@@ -1,0 +1,12 @@
+<item>
+            <formato>EBOOK</formato>
+            <quantidade>1</quantidade>
+            <livro>
+                <codigo>ARQ</codigo>
+                <titulo>Introdução à Arquitetura e Design de Software</titulo>
+                <tituloCurto>Arquitetura Java</tituloCurto>
+                <nomeAutor>Sergio Lopes, Paulo Silveira, Guilherme Silveira, Nico Steppat, outros</nomeAutor>
+                <valorEbook>29.90</valorEbook>
+                <valorImpresso>79.90</valorImpresso>
+            </livro>
+        </item>
